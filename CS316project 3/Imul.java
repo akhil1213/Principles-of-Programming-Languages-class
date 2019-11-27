@@ -1,0 +1,1 @@
+class Imul extends Instruction {}

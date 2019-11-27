@@ -1,0 +1,1 @@
+class Iadd extends Instruction {}

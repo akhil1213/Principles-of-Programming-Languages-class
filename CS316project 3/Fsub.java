@@ -1,0 +1,1 @@
+class Fsub extends Instruction {}

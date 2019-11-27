@@ -1,0 +1,1 @@
+class Fadd extends Instruction {}

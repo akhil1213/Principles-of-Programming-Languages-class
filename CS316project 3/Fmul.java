@@ -1,0 +1,1 @@
+class Fmul extends Instruction {}

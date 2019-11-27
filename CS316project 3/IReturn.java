@@ -1,0 +1,1 @@
+class IReturn extends Instruction {}

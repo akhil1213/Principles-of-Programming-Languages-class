@@ -1,0 +1,1 @@
+class Isub extends Instruction {}
